@@ -1,0 +1,8 @@
+name="pxvm003"
+image="Centos7"
+cores="1"
+memory="512"
+disk_size="50"
+default_user="centos"
+ip="192.168.12.102"
+mac="06:D2:E8:8B:03:02"
